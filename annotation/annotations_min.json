@@ -1,0 +1,403 @@
+{
+  "dataset_name": "UPS Synthetic Labels",
+  "version": "1.0.0",
+  "generated_at": "2025-10-29T07:43:57.515796Z",
+  "images": [
+    {
+      "id": "IMG_8743_01",
+      "file_name": "IMG_8743_01.jpg",
+      "label_group": "IMG_8743",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z11100L0708091011"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-38"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684075201300 DALLAS PKYDALLASTX752011Z11100L0708091011Jack LiNancy Zhou2141112233"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8745_01",
+      "file_name": "IMG_8745_01.jpg",
+      "label_group": "IMG_8745",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z33344N5051525354"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-40"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684002108600 BEACON STBOSTONMA021081Z33344N5051525354Tom ReedEmily Yang6173332211"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8746_01",
+      "file_name": "IMG_8746_01.jpg",
+      "label_group": "IMG_8746",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z99900P6061626364"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-41"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684094114123 CASTRO STSAN FRANCISCOCA941141Z99900P6061626364Alex WangDora Park4159876543"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8747_01",
+      "file_name": "IMG_8747_01.jpg",
+      "label_group": "IMG_8747",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z88899K2324252627"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-37"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684085001999 PHOENIX RDPHOENIXAZ850011Z88899K2324252627Chloe ChenRick Shaw6029990000"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8748_01",
+      "file_name": "IMG_8748_01.jpg",
+      "label_group": "IMG_8748",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z67890F0102030405"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-33"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684094105456 MKT STSAN FRANCISCOCA941051Z67890F0102030405Jane DoeTom Zhang4155557890"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8749_01",
+      "file_name": "IMG_8749_01.jpg",
+      "label_group": "IMG_8749",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z11122G0918273645"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-34"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684060616200 S WABASHCHICAGOIL606161Z11122G0918273645Ella ChangDavid Kim3121234567"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8750_01",
+      "file_name": "IMG_8750_01.jpg",
+      "label_group": "IMG_8750",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z44455H0203040506"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-35"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684098101789 5TH AVESEATTLEWA981011Z44455H0203040506Sara MillerLeo Tran2065551234"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8751_01",
+      "file_name": "IMG_8751_01.jpg",
+      "label_group": "IMG_8751",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z77788J1213141516"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-36"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>01968403030112 PEACHTREE STATLANTAGA303011Z77788J1213141516Mike JonesAngela Yu4047778888"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8752_01",
+      "file_name": "IMG_8752_01.jpg",
+      "label_group": "IMG_8752",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z12345E0205271688"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-32"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684010001123 MAIN STNEW YORKNY100011Z12345E0205271688Alice SmithBob Lee5551234567"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8754_01",
+      "file_name": "IMG_8754_01.jpg",
+      "label_group": "IMG_8754",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z44455H0203040506"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-35"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684098101789 5TH AVESEATTLEWA981011Z44455H0203040506Sara MillerLeo Tran2065551234"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8755_01",
+      "file_name": "IMG_8755_01.jpg",
+      "label_group": "IMG_8755",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z11100L0708091011"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-38"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684075201300 DALLAS PKYDALLASTX752011Z11100L0708091011Jack LiNancy Zhou2141112233"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8757_01",
+      "file_name": "IMG_8757_01.jpg",
+      "label_group": "IMG_8757",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z22233M4041424344"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-39"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684033101500 MIAMI AVEMIAMIFL331011Z22233M4041424344Chris WuMegan Tan3054443333"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8758_01",
+      "file_name": "IMG_8758_01.jpg",
+      "label_group": "IMG_8758",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z12345E0205271688"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-32"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684010001123 MAIN STNEW YORKNY100011Z12345E0205271688Alice SmithBob Lee5551234567"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8759_01",
+      "file_name": "IMG_8759_01.jpg",
+      "label_group": "IMG_8759",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z11100L0708091011"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-38"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684075201300 DALLAS PKYDALLASTX752011Z11100L0708091011Jack LiNancy Zhou2141112233"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8760_01",
+      "file_name": "IMG_8760_01.jpg",
+      "label_group": "IMG_8760",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z33344N5051525354"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-40"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684002108600 BEACON STBOSTONMA021081Z33344N5051525354Tom ReedEmily Yang6173332211"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8762_01",
+      "file_name": "IMG_8762_01.jpg",
+      "label_group": "IMG_8762",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z99900P6061626364"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-41"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684094114123 CASTRO STSAN FRANCISCOCA941141Z99900P6061626364Alex WangDora Park4159876543"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8763_01",
+      "file_name": "IMG_8763_01.jpg",
+      "label_group": "IMG_8763",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z88899K2324252627"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-37"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684085001999 PHOENIX RDPHOENIXAZ850011Z88899K2324252627Chloe ChenRick Shaw6029990000"
+        }
+      ]
+    },
+    {
+      "id": "IMG_8764_01",
+      "file_name": "IMG_8764_01.jpg",
+      "label_group": "IMG_8764",
+      "variation": "01",
+      "barcodes": [
+        {
+          "symbology": "Code128",
+          "role": "tracking",
+          "value": "1Z67890F0102030405"
+        },
+        {
+          "symbology": "Code128",
+          "role": "reference",
+          "value": "CA 859 2-33"
+        },
+        {
+          "symbology": "MaxiCode",
+          "value": "[)>019684094105456 MKT STSAN FRANCISCOCA941051Z67890F0102030405Jane DoeTom Zhang4155557890"
+        }
+      ]
+    }
+  ]
+}
