@@ -1,4 +1,4 @@
-# UPS Synthetic Shipping Label Dataset
+# Code128 and MaxiCode Dataset
 
 This repository contains a small, **synthetic dataset of UPS-style shipping labels** created to test barcode decoding performance — especially for **Code128** and **MaxiCode** symbologies.
 
